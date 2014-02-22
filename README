@@ -1,0 +1,32 @@
+tork
+
+Adam Gleichsner
+"gleichsnerd"
+amg188@case.edu
+
+**DESCRIPTION**
+A MATLAB remake of the 1980 text-based RPG classic, Zork. This project was done 
+with a partner for an intro to MATLAB course. It's a little broken, possibly 
+due to changes between MATLAB editions, and also because MATLAB doesn't have
+a native text-based GUI or easy ways to create multi-layered maps.
+
+Sidenote, the gui editor for arrays is awful in Matlab, as well as file reading 
+and extension support. 
+
+**RUNNING THE PROGRAM**
+Make sure you open the tork.m file in the same directory as the other files.
+You can either start the program through the built-in command window by typing 
+
+>> tork
+
+or by pressing run in the IDE.
+
+**GAMEPLAY**
+
+First click the bottom of the window to access the command box. 
+Enter directional commands (i.e. north, south) or action commands when 
+appropriate (i.e. attack <target>).
+
+That's about it. 
+
+Enjoy what a friend and I crunched out in a day in a psuedo computer language.
